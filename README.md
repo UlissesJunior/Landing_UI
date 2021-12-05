@@ -14,3 +14,7 @@ As animações feitas a partir da folha de estilo, deixam uma plataforma muito m
 <p>
   
 ## Pop-up Interativo
+Além das animações, os pop-ups também saõ uma ótima forma de se comunicar com o usuário, eles dão a confirmação do que este está fazendo na página.
+<p align="center">
+<img src="assets/img/Demo_pop-up.gif">
+<p>
