@@ -14,7 +14,7 @@ As animações feitas a partir da folha de estilo, deixam uma plataforma muito m
 <p>
   
 ## Pop-up Interativo
-Além das animações, os pop-ups também saõ uma ótima forma de se comunicar com o usuário, eles dão a confirmação do que este está fazendo na página.
+Além das animações, os pop-ups também são uma ótima forma de se comunicar com o usuário, eles dão a confirmação do que este está fazendo na página.
   Essas interações foram feitas por meio da biblioteca <a href="https://sweetalert2.github.io">sweetalert2</a>.
 <p align="center">
 <img src="assets/img/Demo_pop-up.gif">
