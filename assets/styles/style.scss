@@ -77,9 +77,13 @@ body {
     position: relative;
     max-width: 1170px;
     margin: auto;
-    // height: 100vh;
+    height: 776px;
     background-color: $background_1; 
     
+    .container-down {
+        margin-top: 29.1px;
+    }
+
     h1 {
         position: absolute;
         font-style: bold;
@@ -294,7 +298,7 @@ body {
         text-align: center;
         justify-content: center;
         align-items: center;
-        height: 70vh;
+        height: 720px;
     }
 
     .cont-1 {
