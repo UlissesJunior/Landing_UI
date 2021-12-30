@@ -4,7 +4,7 @@ Landing Page feita considerando os recursos das tecnologias UI/UX e valorizando 
 
 
 <p align="center">
-<img src="assets/img/Demo.png">
+<img src="assets/img/Demo_Landing.png">
 <p>
   
 ## Animações
